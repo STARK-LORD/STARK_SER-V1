@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/STARK-LORD">STARK-SER</a> to make
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STARK-LORD/STARK_SER-V1.git)
 
 
 
