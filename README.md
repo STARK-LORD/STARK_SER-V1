@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://imgur.com/a/RiOG9XM>
+<img src=https://i.imgur.com/GIVfcVG.jpeg>
 </p>
   <p align="center">
 <a href="https://github.com/Amal-ser"><img title="Author" src="https://imgur.com/a/RiOG9XM"></a>
