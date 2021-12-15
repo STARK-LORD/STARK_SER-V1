@@ -114,7 +114,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'amalser' || config.AFPLK == 'afamk' || config.AFPLK == 'vava' || config.AFPLK == 'Amalser') {
+        if (config.AFPLK == 'STARKSER' || config.AFPLK == 'afamk' || config.AFPLK == 'vava' || config.AFPLK == 'STARKSER') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
@@ -278,7 +278,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                             if (config.NOLOG === 'off') {
                                 
                                 await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
+                                    '\n*🌀 MESSAGE ME ON TELEGRAM BERLIN_LORD ON TELEGRAM OR 907409995 ON WHATSAP*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
