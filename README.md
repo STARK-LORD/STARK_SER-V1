@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/GIVfcVG.jpeg>
+<img src=https://i.imgur.com/YB1g0F8.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://imgur.com/a/RiOG9XM"></a>
+<a href="https://github.com/STARK-LORD"><img title="Author" src="https://imgur.com/a/RiOG9XM"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/STARK-LORD">STARK-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,15 +21,6 @@ Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it
 ## Setup
 <div align="center"> 
 
-
-## Click Youtube logo to Watch full video and findout password in this video 👇
-
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/Tb1B-rS52uo)
-
-
-## Instagram  Follow ❤️
-
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   ### Simple Method
@@ -41,27 +32,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Amalser.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
-$ npm i
-$ node Amalser.js
-```
 
-----
 
   <p align="center">
   <a href="httsp://github.com/Amal-ser/Amalser">
